@@ -1,2 +1,3 @@
 # hello-world
-Hello World
+Hi Humans
+this is my very own gitgod.

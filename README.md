@@ -1,3 +1,3 @@
 # hello-world
 Hi Humans
-this is my very own gitgod.
+this is my very own git
